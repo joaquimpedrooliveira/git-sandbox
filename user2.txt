@@ -1,3 +1,4 @@
+Tracking merge do user2
 Arquivo criado pelo outro usuario.
 Alterado pelo user1.
 Outra linha criada.
