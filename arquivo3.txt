@@ -1,1 +1,2 @@
 Tentando fazer o push do branch local para o master do remote.
+Usando git push origin branchLocal:branchRemoto
