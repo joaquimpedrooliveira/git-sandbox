@@ -1,3 +1,4 @@
+Alterado branch user1_dev sem tracking
 Arquivo criado pelo outro usuario.
 Alterado pelo user1.
 Outra linha criada.
