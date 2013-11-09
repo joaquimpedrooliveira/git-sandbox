@@ -1,1 +1,3 @@
 Arquivo criado pelo outro usuario.
+Alterado pelo user1.
+Outra linha criada.
