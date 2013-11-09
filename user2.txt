@@ -1,3 +1,4 @@
+Alterado no upstream
 Novo teste
 Alterado branch user1_dev sem tracking
 Arquivo criado pelo outro usuario.
