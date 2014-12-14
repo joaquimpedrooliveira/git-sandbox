@@ -1,1 +1,3 @@
+Alterado pelo user1 para testar push no branch
+Alterado para testar os tracking branchs
 Arquivo criado pelo user1 no branch
