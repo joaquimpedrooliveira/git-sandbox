@@ -1,2 +1,4 @@
 Arquivo criado pelo user1 no branch
 Uma linha
+Alterado pelo outro usuário.
+
