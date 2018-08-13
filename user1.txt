@@ -1,4 +1,6 @@
 Arquivo criado pelo user1 no branch
+KLinha Remota 3
 Uma linha
 Alterado pelo outro usuário.
-
+Linha remota 1
+Linha remota 2
