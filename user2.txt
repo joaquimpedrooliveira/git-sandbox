@@ -1,3 +1,8 @@
+Linha remota 5
 Arquivo criado pelo outro usuario.
 Alterado pelo user1.
+Lnha remota 4
 Outra linha criada.
+LInah remota 1
+Linha remota 2
+Linha remota 3
