@@ -1,3 +1,6 @@
+LInha local 1
 Arquivo criado pelo outro usuario.
+Linha local 2
 Alterado pelo user1.
 Outra linha criada.
+Linha local 3

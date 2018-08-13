@@ -1,4 +1,6 @@
+Linha local 3
 Arquivo criado pelo user1 no branch
 Uma linha
 Alterado pelo outro usuário.
-
+Linha local 1
+Linha local 2
